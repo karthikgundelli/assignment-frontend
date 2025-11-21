@@ -1,0 +1,50 @@
+{
+  "name": "react-practice",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.9.2",
+    "@tailwindcss/vite": "^4.1.14",
+    "axios": "^1.13.2",
+    "bootstrap": "^5.3.8",
+    "firebase": "^12.5.0",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.547.0",
+    "multer": "^2.0.2",
+    "natural": "^8.1.0",
+    "openai": "^6.7.0",
+    "openapi": "^1.0.0",
+    "pdf-parse": "^2.4.5",
+    "react": "^19.1.1",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.1.1",
+    "react-hot-toast": "^2.6.0",
+    "react-icons": "^5.5.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.9.6",
+    "react-scroll": "^1.9.3",
+    "react-slick": "^0.31.0",
+    "react-toastify": "^11.0.5",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "^4.1.14",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.3",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.4.0",
+    "vite": "^7.1.7"
+  }
+}
